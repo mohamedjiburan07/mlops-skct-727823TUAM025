@@ -1,0 +1,16 @@
+$schema: https://azuremlschemas.azureedge.net/latest/pipelineJob.schema.json
+
+type: pipeline
+
+experiment_name: SKCT_727823TUAM025_SalesForecasting
+
+jobs:
+
+  data_prep:
+    command: python src/data_prep.py
+
+  train:
+    command: python src/train_pipeline.py
+
+  evaluate:
+    command: python src/evaluate.py
