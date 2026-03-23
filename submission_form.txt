@@ -1,0 +1,9 @@
+Name: MOHAMED JIBURAN S
+Roll Number: 727823TUAM025
+
+MLflow Experiment Name: SKCT_727823TUAM025_SalesForecasting
+Best Run ID: dashing-bug-931
+Best Metric (R2): 0.8238
+
+GitHub URL: https://github.com/mohamedjiburan07/mlops-skct-727823TUAM025
+Total Commits: 7
